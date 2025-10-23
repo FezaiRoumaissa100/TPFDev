@@ -1,0 +1,3 @@
+export const CONSTANTS = {
+    UUID_PROVIDER: 'UUID_PROVIDER'
+}
